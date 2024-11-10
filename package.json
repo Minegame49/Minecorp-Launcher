@@ -1,11 +1,11 @@
 {
     "name": "Minecorp",
     "preductname": "Minecorp Launcher",
-    "version": "3.0.0",
+    "version": "1.0.0",
     "description": "Launcher officiel de la Minecorp",
     "main": "src/app.js",
     "author": "Minegame499",
-    "settings": "https://dev.conflictura.eu",
+    "settings": "https://titantechpc.free.hwhost.fr",
     "engines": {
         "node": "16.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Riptiaz/CentralCorp-Launcher.git"
+        "url": "git+https://github.com/Minegame49/Minecorp-Launcher.git"
     }
 }
